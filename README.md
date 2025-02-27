@@ -12,7 +12,7 @@
 
 ## 📈 Estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?IDGS-801-22002360=IDGS-801-22002360&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=IDGS-801-22002360&show_icons=true&theme=radical)
 
 ## 🌐 Encuéntrame en
 
