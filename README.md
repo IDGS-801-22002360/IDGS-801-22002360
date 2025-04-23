@@ -1,8 +1,5 @@
 # Marco Esteban Martínez Ruano
 
-
-
-## Conocimientos en:
 <p align="">
     <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="100" style="margin: 15px;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" height="80" style="margin-right: 15px;"/>
